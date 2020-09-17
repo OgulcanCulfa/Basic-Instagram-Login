@@ -6,3 +6,4 @@
 
 2 - <b>pip install selenium</b>
 
+3 - fill the empty strings then run it
